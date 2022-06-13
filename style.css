@@ -41,7 +41,7 @@
     padding:0.7vh;
     border: solid 3px #000050;
     border-radius: 500px;
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
     background-color: #feef2f;
     color: #000050;
     margin: 0 auto;
@@ -81,14 +81,14 @@
     font-size: 2vh;
     margin-top: 2vh;
     line-height: 4vh;
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
 }
 
 p {
     font-size: 2.2vh;
     background-color: #feef2f;
     color:#000050;
-    font-family: Montserrat, sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     padding: 2.5vh;
 }
